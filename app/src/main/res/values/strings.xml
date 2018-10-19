@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PhoneBook</string>
+    <string name="name">הכנס שם איש קשר</string>
+    <string name="number">הכנס מספר טלפון</string>
+</resources>
